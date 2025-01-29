@@ -73,10 +73,3 @@ Cardiovascular disease (CVD) is the leading cause of mortality in the United Sta
     - **KNN**: Improved to **0.95 AUC** after tuning.  
     - **Logistic Regression & Naïve Bayes**: Lower scores (~0.87).  
 
-## Installation & Usage  
-### **Installation**  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/yourusername/CVD-Prediction.git
-cd CVD-Prediction
-pip install -r requirements.txt
